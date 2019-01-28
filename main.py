@@ -21,7 +21,7 @@ def main():
     with open("manifest.json", "w") as f:
         json.dump({
             "minecraft": {
-                "version": version.split()[-1],
+                "version": config["mc_version"],
                 "modLoaders": [
                     {
                         "id": "forge-" + config["forge"],

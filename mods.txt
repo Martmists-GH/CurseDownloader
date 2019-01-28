@@ -1,5 +1,7 @@
 # Minecraft 1.12
 ThermalExpansion
+Thermal Dynamics
+Thermal Cultivation
 Immersive Engineering
 Industrial Foregoing
 Ender IO

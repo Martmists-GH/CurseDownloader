@@ -1,6 +1,6 @@
 {
     "minecraft": {
-        "version": "1.12",
+        "version": "1.12.2",
         "modLoaders": [
             {
                 "id": "forge-14.23.5.2808",
@@ -42,6 +42,16 @@
         {
             "projectID": 271384,
             "fileID": 2623091,
+            "required": true
+        },
+        {
+            "projectID": 227443,
+            "fileID": 2624182,
+            "required": true
+        },
+        {
+            "projectID": 271835,
+            "fileID": 2623100,
             "required": true
         },
         {
