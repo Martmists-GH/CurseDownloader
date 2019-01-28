@@ -111,7 +111,6 @@ Tinkers JEI
 BetterFPS
 ctm
 No Recipe Book
-Just Enough Energistics JEE
 Inventory Tweaks
 DiscordSuite
 Better Advancements
@@ -130,3 +129,6 @@ Better Builders Wands
 XTones
 Blockcraftery
 Primitive Mobs
+Multi Mob Core
+Shadowfacts Forgelin
+Infinitylib
