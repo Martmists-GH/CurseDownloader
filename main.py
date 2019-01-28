@@ -2,7 +2,7 @@ import json
 
 from data import CustomJSONEncoder
 from downloader import download
-from parser import load_mods, load_config
+from config_parser import load_mods, load_config
 
 
 def main():
