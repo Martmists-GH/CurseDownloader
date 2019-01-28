@@ -12,7 +12,7 @@ Woot
 XNet
 Forestry
 Advanced Generators
-PneumaticCraft
+PneumaticCraft Repressurized
 Actually Additions
 Extreme Reactors
 Railcraft
@@ -26,7 +26,7 @@ Natures Aura
 Blood Magic
 Mystical Agriculture
 Roots
-Reliquary
+Reliquary v1-3
 Corail Tombstone
 EverlastingAbilities
 Biome Bundle
@@ -63,7 +63,6 @@ Immersive Tech
 PlusTiC
 Storage Drawers Extras
 Thaumic Computers
-tinkers construct expansion
 MystAgrad Cloche Compat
 Soot
 Thaumic Additions
@@ -94,7 +93,7 @@ FoamFix For Minecraft
 FastWorkbench
 Morpheus
 Clumps
-Bad Wither No Cookie
+Bad Wither No Cookie Reloaded
 Steves Carts Reborn
 Quark
 Fast Leaf Decay

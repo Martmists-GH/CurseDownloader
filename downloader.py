@@ -93,7 +93,7 @@ def download(mc_version: str, mod_name: str, is_dep=False) -> Tuple[Union[ModInf
 
     file_id = find_file_id(mc_version, mod_name, soup)
 
-    if file_id is None and is_dep:  # Dependencies may get out of date and no longer be needed
+    if file_id is None:
         print("ERROR: Out of date mod:", mod_name)
         return None, []
 
