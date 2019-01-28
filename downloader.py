@@ -41,6 +41,8 @@ def find_file_id(mc_version: str, mod_name: str, soup: BeautifulSoup) -> int:
             latest = list(item.children)[1]
             download_div = list(list(latest.children)[3].children)[1]
             url = list(download_div.children)[1].attrs["href"]
+            if not url.endswith("/download"):  # CF is weird
+                url += "/download"
             match = FILE_ID.search(url)
             return int(match.group("file_id"))
 
@@ -79,14 +81,20 @@ def download(mc_version: str, mod_name: str, is_dep=False) -> Tuple[Union[ModInf
 
     url = URL.format(mod_name.lower().replace(" ", "-"))
 
-    body = requests.get(url).text
+    resp = requests.get(url)
+
+    if resp.status_code != 200:
+        print("ERROR: Status code while fetching mod", mod_name, "->", resp.status_code)
+        return None, []
+
+    body = resp.text
 
     soup = BeautifulSoup(body, "lxml")
 
     file_id = find_file_id(mc_version, mod_name, soup)
 
     if file_id is None and is_dep:  # Dependencies may get out of date and no longer be needed
-        print("Out of date mod:", mod_name)
+        print("ERROR: Out of date mod:", mod_name)
         return None, []
 
     project_id = find_project_id(soup)

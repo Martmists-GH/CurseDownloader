@@ -21,6 +21,112 @@ Thaumcraft
 Botania
 Magical Psi
 Electroblobs wizardry
-embers
-natures aura
-blood magic
+Embers
+Natures Aura
+Blood Magic
+Mystical Agriculture
+Roots
+Reliquary
+Corail Tombstone
+EverlastingAbilities
+Biome Bundle
+Natura
+Waystones
+Totemic
+Roguelike Dungeons
+Rustic
+The Aether II
+Angry Pixel The Betweenlands Mod
+The Twilight Forest
+Lapitos Galacticraft
+Tinkers Construct
+Constructs Armory
+Superior Shields
+Wings
+Baubles
+Cosmetic Armor Reworked
+Blood Arsenal
+Mystical Agradditions
+AE2 Stuff
+Magic Bees
+Career Bees
+ExtraCells2
+Gendustry
+Wireless Crafting Terminal
+Galacticraft Add-on More Planets
+More Planet Extras
+Thaumic Periphery
+Thaumic Energistics
+Thaumcraft Inventory Scanning
+Tinkers Tool Leveling
+Immersive Tech
+PlusTiC
+Storage Drawers Extras
+Thaumic Computers
+tinkers construct expansion
+MystAgrad Cloche Compat
+Soot
+Thaumic Additions
+Rustic Thaumaturgy
+Power Chisels
+Thaumic JEI
+TOP Addons
+Bring me the rings
+Ender IO Endergy
+AgriCraft
+JAOPCa
+Project Red Base
+Project Red Integration
+Project Red Lighting
+Project Red Fabrication
+Project Red Mechanical
+Project Red World
+Project Red Compat
+OpenBlocks
+Quark
+Akashic Tome
+Morph-o-tool
+Dank Null
+FTB Utilities
+Baubley Heart Canisters
+AttributeFix
+FoamFix For Minecraft
+FastWorkbench
+Morpheus
+Clumps
+Bad Wither No Cookie
+Steves Carts Reborn
+Quark
+Fast Leaf Decay
+Applied Energistics 2
+MetalChests
+Storage Drawers
+Pams Harvestcraft
+Cooking for Blockheads
+Computercraft
+Opencomputers
+The One Probe
+JEI
+Tinkers JEI
+BetterFPS
+ctm
+No Recipe Book
+Just Enough Energistics JEE
+Inventory Tweaks
+DiscordSuite
+Better Advancements
+AppleSkin
+JEI Bees
+JEI Integration
+Laggoggles
+Just Enough Resources JER
+Controlling
+ReAuth
+AutoRegLib
+Bibliocraft
+Chisel
+Chisels Bits
+Better Builders Wands
+XTones
+Blockcraftery
+Primitive Mobs
